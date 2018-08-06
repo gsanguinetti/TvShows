@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TvShowDetailsSectionLayout">
+        <attr name="section_title" format="string|reference" />
+        <attr name="section_padding_enabled" format="boolean" />
+    </declare-styleable>
+</resources>

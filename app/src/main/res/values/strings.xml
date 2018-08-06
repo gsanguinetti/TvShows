@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TvShows</string>
+    <string name="connection_error_msg">Ups! It seems like you don\'t have internet connection</string>
+    <string name="retry_button_label">Retry</string>
+    <string name="vote_count">(%1$d)</string>
+    <string name="first_air_date">First air date: %1$s</string>
+    <string name="info">TV Show Info</string>
+    <string name="episodes">Episodes: %1$d</string>
+    <string name="seasons">Seasons: %1$d</string>
+    <string name="website">Website: \n%1$s</string>
+    <string name="seasons_title">Seasons</string>
+    <string name="seasons_entry">Season %1$d</string>
+    <string name="season_zero">Specials / Pilot</string>
+    <string name="related_shows">Related Shows</string>
+
+    <string name="imagePoster_transition_name" translatable="false">posterTransition</string>
+</resources>

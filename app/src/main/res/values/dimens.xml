@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvshows_item_spacing">16dp</dimen>
+    <dimen name="tvshow_details_content_top_margin">24dp</dimen>
+    <dimen name="tvshow_details_title_top_margin">8dp</dimen>
+    <dimen name="tvshow_details_title_bottom_margin">12dp</dimen>
+    <dimen name="tvshow_details_genre_item_spacing">8dp</dimen>
+    <dimen name="tvshow_details_section_margin">-3dp</dimen>
+    <dimen name="tvshow_details_section_content_margin">24dp</dimen>
+    <dimen name="tvshow_details_section_related_items_margin">8dp</dimen>
+    <dimen name="tvshow_details_section_related_top_margin">8dp</dimen>
+    <dimen name="tvshow_details_section_related_bottom_margin">8dp</dimen>
+</resources>
